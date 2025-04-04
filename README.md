@@ -15,3 +15,10 @@ Erweiterbar mit RAG-System, JSON-Datenbank und Geodatenanalyse.
 ## 📦 Installieren
 ```bash
 pip install -r requirements.txt
+
+📌 Roadmap
+
+RAG-Integration mit Vektorsuche
+JSON-basierte Datenbank erweitern
+Beteiligungsmodul & PDF-Export
+(Monitoring-Dashboard)
