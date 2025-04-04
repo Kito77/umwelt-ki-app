@@ -16,7 +16,7 @@ Erweiterbar mit RAG-System, JSON-Datenbank und Geodatenanalyse.
 ```bash
 pip install -r requirements.txt
 
-📌 Roadmap
+## 📌 Roadmap
 
 RAG-Integration mit Vektorsuche
 JSON-basierte Datenbank erweitern
