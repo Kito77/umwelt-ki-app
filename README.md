@@ -14,10 +14,10 @@ Erweiterbar mit RAG-System, JSON-Datenbank und Geodatenanalyse.
 
 ## 📌 Roadmap
 
-RAG-Integration mit Vektorsuche
-JSON-basierte Datenbank erweitern
-Beteiligungsmodul & PDF-Export
-(Monitoring-Dashboard)
+- RAG-Integration mit Vektorsuche
+- JSON-basierte Datenbank erweitern
+- Beteiligungsmodul & PDF-Export
+- (Monitoring-Dashboard)
 
 ## 📦 Installieren
 ```bash
