@@ -1,0 +1,53 @@
+{
+  "lärmkarte_berlin": {
+    "abfrage_schlüssel": [
+      "lärmkarte",
+      "laermkarte",
+      "laermbelastung"
+    ],
+    "beschreibung": "Offizielle Lärmkarte der Stadt Berlin",
+    "region": "Berlin",
+    "thema": "Lärm",
+    "quelle": "https://daten.berlin.de/laermkarten",
+    "dateityp": "html",
+    "aktualisiert_am": "2023-12-01",
+    "automatisierbar": true,
+    "anfrage_möglich": false,
+    "quelle_offen": true
+  },
+  "artenschutzprüfung_allgemein": {
+    "abfrage_schlüssel": [
+      "artenschutz",
+      "fauna-flora",
+      "ffh",
+      "artenschutzprüfung"
+    ],
+    "beschreibung": "Artenschutzprüfung zur Einschätzung von Eingriffsfolgen",
+    "region": "Deutschland",
+    "thema": "Artenschutz",
+    "anfrage_email": "umweltamt@stadt.de",
+    "vorlage": "Sehr geehrte Damen und Herren,\n\nBitte senden Sie mir die aktuelle Artenschutzprüfung für das Gebiet XY.\n\nMit freundlichen Grüßen\nMelina Musterfrau",
+    "automatisierbar": false,
+    "anfrage_möglich": true,
+    "quelle_offen": false
+  },
+  "bodenkarten_brandenburg": {
+    "abfrage_schlüssel": [
+      "bodenkarte",
+      "boden",
+      "baukörper",
+      "bodentyp",
+      "brandenburg",
+      "potsdam"
+    ],
+    "beschreibung": "Digitale Bodenübersichtskarte Brandenburg (BÜK300)",
+    "region": "Brandenburg / Potsdam",
+    "thema": "Boden",
+    "quelle": "https://lfu.brandenburg.de/lfu/de/aufgaben/boden/fachdaten/",
+    "dateityp": "html",
+    "aktualisiert_am": "2022-08-01",
+    "automatisierbar": true,
+    "anfrage_möglich": false,
+    "quelle_offen": true
+  }
+}

@@ -1,0 +1,1 @@
+# Erstellt/verwaltet Vektordatenbank (z. B. Chroma oder FAISS)

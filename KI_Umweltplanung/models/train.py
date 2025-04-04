@@ -1,0 +1,1 @@
+# Skript zum Trainieren des Modells

@@ -1,0 +1,23 @@
+# Dateien, die aus der Versionskontrolle ausgeschlossen werden sollen
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# Umgebung & virtuelle Umgebung
+.venv/
+.env
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Notebook-Checkpoints
+*.ipynb_checkpoints
+
+# Modellartefakte
+*.pkl
+*.pt
+*.h5
+
+# VS Code-Einstellungen
+.vscode/

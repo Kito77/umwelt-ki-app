@@ -1,0 +1,1 @@
+# Extraktion von Merkmalen für das Modell

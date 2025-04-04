@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Testfläche Havelufer Potsdam"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[
+            [13.0372, 52.3914],
+            [13.0380, 52.3916],
+            [13.0381, 52.3911],
+            [13.0372, 52.3910],
+            [13.0372, 52.3914]
+          ]]
+        }
+      }
+    ]
+  }
+  

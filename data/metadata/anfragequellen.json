@@ -1,0 +1,35 @@
+{
+    "artenschutz": {
+      "bezeichnung": "Artenschutzkartierung",
+      "zuständig": "Untere Naturschutzbehörde Potsdam",
+      "link": "https://www.potsdam.de/naturschutz/formulare",
+      "kontakt": "umwelt@rathaus.potsdam.de",
+      "typ": "Formular",
+      "beschreibung": "Erforderlich bei Eingriffen in Lebensräume gefährdeter Arten. Durchführung durch qualifizierte Büros."
+    },
+    "boden": {
+      "bezeichnung": "Altlastenauskunft",
+      "zuständig": "LfU Brandenburg",
+      "link": "https://lfu.brandenburg.de/lfu/de/",
+      "api": null,
+      "kontakt": "lfu-altlasten@brandenburg.de",
+      "typ": "Auskunftssystem",
+      "beschreibung": "Nötig bei potenziell belasteten Böden oder alten Industrieflächen. Amtliche Abfrage empfohlen."
+    },
+    "wasser": {
+      "bezeichnung": "Wasserwirtschaftliche Angaben",
+      "zuständig": "Landesamt für Umwelt Brandenburg",
+      "link": "https://www.lfu.brandenburg.de",
+      "kontakt": "wasser@lfu.brandenburg.de",
+      "typ": "Mail",
+      "beschreibung": "Bei Lage in der Nähe von Fließgewässern oder Grundwasserabsenkung erforderlich."
+    },
+    "schutzgebiete": {
+      "bezeichnung": "FFH-/LSG-/NSG-Abfrage",
+      "zuständig": "BfN / LfU Brandenburg",
+      "link": "https://geodienste.bfn.de/schutzgebiete",
+      "typ": "Viewer",
+      "beschreibung": "Wichtig für Eingriffe in naturschutzrechtlich relevante Gebiete. Verträglichkeitsprüfung ggf. notwendig."
+    }
+  }
+  

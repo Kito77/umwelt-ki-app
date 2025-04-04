@@ -1,0 +1,1 @@
+# Verbindet sich mit Mistral 7B lokal

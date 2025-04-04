@@ -1,0 +1,7 @@
+#Beispieldatei zusätzliche Informationen zu NaBiv_Amphibien
+
+Das Planungsgebiet befindet sich südlich von Berlin und überschneidet sich teilweise
+ mit einem FFH-Gebiet nach RL 92/43/EWG. Es handelt sich um einen prioritären 
+ Lebensraumtyp (LRT 91E0*), für den ein strenger Schutz besteht. 
+ Zusätzlich existieren Vorkommen der Art *Triturus cristatus* (Kammmolch), 
+ die laut Anhang II geschützt ist.

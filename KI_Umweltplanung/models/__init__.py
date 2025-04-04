@@ -1,0 +1,1 @@
+# Initialisierungsdatei für Modelle

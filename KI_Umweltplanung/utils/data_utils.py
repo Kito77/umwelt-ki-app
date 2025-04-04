@@ -1,0 +1,1 @@
+# Funktionen zum Laden und Speichern von Daten

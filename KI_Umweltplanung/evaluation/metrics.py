@@ -1,0 +1,1 @@
+# Berechnung von Metriken wie Genauigkeit, F1-Score etc
