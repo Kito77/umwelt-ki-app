@@ -12,13 +12,15 @@ Erweiterbar mit RAG-System, JSON-Datenbank und Geodatenanalyse.
 - `tools/` – Prüfer, Dateneditoren
 - `app.py` – Einstiegspunkt (Streamlit oder CLI)
 
-## 📦 Installieren
-```bash
-pip install -r requirements.txt
-
 ## 📌 Roadmap
 
 RAG-Integration mit Vektorsuche
 JSON-basierte Datenbank erweitern
 Beteiligungsmodul & PDF-Export
 (Monitoring-Dashboard)
+
+## 📦 Installieren
+```bash
+pip install -r requirements.txt
+
+
